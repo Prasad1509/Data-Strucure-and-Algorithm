@@ -8,3 +8,4 @@ arr = [5, 1, 4, 2, 8]
   
 print(linear_search(arr, 5))  # Best case: found at index 0
 print(linear_search(arr, 10)) # Worst case: not found, returns -1
+ 
