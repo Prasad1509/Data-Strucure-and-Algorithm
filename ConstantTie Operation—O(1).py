@@ -3,3 +3,4 @@ def get_first_element(arr):
 
 arr = [10, 20, 30]
 print(get_first_element(arr))  
+ 
