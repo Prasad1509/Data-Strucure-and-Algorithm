@@ -3,7 +3,7 @@ q = [None]*size
 front = rear = -1
 
 def enqueue(val):
-    global front, rear
+    global front, rear 
     if (rear + 1) % size == front:
         print("Queue is Full") 
     elif front == -1:
