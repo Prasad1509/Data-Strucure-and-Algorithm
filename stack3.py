@@ -6,5 +6,4 @@ def reverse_string(s):
     while stack:
         reversed_str += stack.pop()
     return reversed_str
-
 print(reverse_string("Prasad Sakhahari Shinde")) 
