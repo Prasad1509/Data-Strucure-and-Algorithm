@@ -10,4 +10,4 @@ def level_order(root):
         if node.left:
             q.append(node.left)
         if node.right:
-            q.append(node.right)
+            q.append(node.right)  
