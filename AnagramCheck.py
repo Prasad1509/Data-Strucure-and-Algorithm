@@ -5,3 +5,4 @@ def are_anagrams(s1, s2):
 print(are_anagrams("listen", "silent"))  
 print(are_anagrams("key", "seen"))  
 
+  
