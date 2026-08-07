@@ -4,7 +4,7 @@ def level_order(root):
     if not root:
         return
     q = deque([root])
-    while q:
+    while q: 
         node = q.popleft()
         print(node.data, end=' ')
         if node.left:
