@@ -7,7 +7,7 @@ def enqueue(val):
     if (rear + 1) % size == front:
         print("Queue is Full")  
     elif front == -1:
-        front = rear = 0
+        front = rear = 0 
         q[rear] = val
     else:
         rear = (rear + 1) % size
