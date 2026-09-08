@@ -3,7 +3,7 @@ def linear_search(arr, target):
         if value == target:
             return i
     return -1
-
+ 
 arr = [5, 1, 4, 2, 8] 
   
 print(linear_search(arr, 5))  # Best case: found at index 0
