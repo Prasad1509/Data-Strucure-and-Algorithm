@@ -6,3 +6,4 @@ print(arr)
 # Q: How to insert at a specific index?
 arr.insert(1, 10)
 print(arr) 
+  
