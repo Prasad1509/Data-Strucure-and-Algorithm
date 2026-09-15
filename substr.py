@@ -2,3 +2,4 @@
 s = "datastructures"
 sub = "struct"
 print(sub in s)  
+     
